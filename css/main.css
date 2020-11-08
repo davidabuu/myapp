@@ -1,0 +1,30 @@
+.navbar-brand {
+    float: none;
+    padding: 5px;
+}
+.navbar-center {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+    height:100%;
+}
+.title-underline{
+    width: 200px;
+    height: 5px;
+    text-align: center;
+    }
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+header{
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/cases6.jpg')center/cover no-repeat;
+    height:100vh;
+}
+.height{
+    height: 100vh;
+}
